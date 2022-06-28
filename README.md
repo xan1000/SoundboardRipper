@@ -22,6 +22,7 @@ For example:
 
 Sample output:
 
+```
 dotnet run http://www.realmofdarkness.net/sb/sw-lightsaber/
 Downloading 22 sound files:
     File #1. Downloading 1-st.mp3... done.
@@ -46,3 +47,4 @@ Downloading 22 sound files:
     File #20. Downloading swing-med.mp3... done.
     File #21. Downloading swing-short-2.mp3... done.
     File #22. Downloading swing-short.mp3... done.
+```
