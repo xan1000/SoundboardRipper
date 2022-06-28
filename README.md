@@ -1,4 +1,4 @@
-# SoundboardRipper
+# About SoundboardRipper
 
 A simple .NET 6 program intended to download sound files from http://www.realmofdarkness.net/ and its various domains.
 
@@ -8,7 +8,7 @@ for the files within the current working directory called sounds and place all t
 For example using the http://www.realmofdarkness.net/sb/sw-lightsaber/ URL a folder called sounds/sw-lightsaber is
 created and the downloaded sound files are placed within the sw-lightsaber folder.
 
-# Execute
+# Running SoundboardRipper
 
 **NOTE:** The following instructions assumes the .NET 6 runtime has been installed and is on the PATH.
 
